@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm passionate about the intersection of Data Science, Software Development,
+and Artificial Intelligence. My academic journey has given me a strong
+foundation, and I'm eager to apply my knowledge in a real-world setting
+to solve complex problems and harness AI's power to inform decision-
+making with innovative software solutions.
