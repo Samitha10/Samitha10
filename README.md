@@ -2,21 +2,20 @@
 <h3 align="center">A Passionate Data Scientist and ML Developer</h3>
 
 <p align="center">
-- 🔭 I’m currently working on (<a href="https://github.com/Samitha10/Financial-Planning-with-AI">Financial Planning with AI</a>)
+- 🔭 I’m currently working on (<a href="https://github.com/Samitha10/Financial-Planning-with-AI" target="_blank" rel="noreferrer">Financial Planning with AI</a>)
 </p>
 
 <p align="center">
-- 🌱 I’m currently learning <b>Power BI, MLOps and LLM fine-tuning</b>
+- 🌱 I’m currently learning <b>Power BI, MLOps, and LLM fine-tuning</b>
 </p>
 
 <p align="center">
-- 📫 How to reach me <i><a href="mailto:samithabesinghe1999@gmail.com">samithabesinghe1999@gmail.com</a></i>
+- 📫 How to reach me <i><a href="mailto:samithabesinghe1999@gmail.com" target="_blank" rel="noreferrer">samithabesinghe1999@gmail.com</a></i>
 </p>
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/samith-abesinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samith-abesinghe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samith-abesinghe" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samith-abesinghe" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -74,5 +73,3 @@
     </a>
     
 </p>
-
-
