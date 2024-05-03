@@ -73,3 +73,16 @@
     </a>
     
 </p>
+<p align="center">
+    <a href="[https://www.langchain.com/](https://www.langchain.com/)" target="_blank" rel="noreferrer">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfK2hOdYI4mZ4b8KQ-fp4NKMoyMwj0C1B2rJZx9VKf&s" alt="LangChain" width="200" height="30"/>
+    </a>
+    <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+        <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Stramlit" width="55" height="40"/>
+    </a>
+    <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="45" height="40"/>
+    </a>
+    
+</p>
+
