@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samith Abesinghe</h1>
 <h3 align="center">A Passionate Data Scientist and Generative AI Developer</h3>
 <p align="center">
-Data Science & AI passionate, seeking to apply software development and strong analytical
+Data Science & AI passionate, seeking to apply software development 
+	and strong analytical
 skills to solve complex problems leveraging AI and data-driven decision making.
 </p>
 
@@ -24,16 +25,12 @@ skills to solve complex problems leveraging AI and data-driven decision making.
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-    <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" height="45"/></a>
-    <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
-    </a>
-	<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-	</a>
+    <img src="https://skillicons.dev/icons?i=c,cs,java,html,css,python,go" />
+  </a>
 </p>
 
+
 <p align="center">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
     </a>
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
         <img src="https://numpy.org/images/logo.svg" alt="numpy" width="45" height="45"/>
@@ -48,7 +45,7 @@ skills to solve complex problems leveraging AI and data-driven decision making.
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="45" height="45"/>
     </a>
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/>
+            <img src="https://skillicons.dev/icons?i=sklearn,pytorch" />
     </a>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/>
@@ -57,14 +54,11 @@ skills to solve complex problems leveraging AI and data-driven decision making.
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="45" height="45"/>
     </a>
 </p>
-<p align="center">
-    <a>
-    <img src="https://skillicons.dev/icons?i=fastapi,git,github"/>
-  </a>
+
     
 </p>
 <p align="center">
-    <a href="[https://www.langchain.com/](https://www.langchain.com/)" target="_blank" rel="noreferrer">
+    <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
         <img src="https://media.licdn.com/dms/image/v2/D4E12AQHnLknj0EYfBA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1684267676484?e=2147483647&v=beta&t=ud7MZe0nlb9x0naK5FUt7wth7VQKhXnslC4Bhr-CZwE" alt="LangChain" width="" height="40"  style="border-radius:8px;"/>
     </a>
     <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
@@ -73,6 +67,21 @@ skills to solve complex problems leveraging AI and data-driven decision making.
         <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
         <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Stramlit" width="55" height="45"/>
     </a>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,postman" />
+    <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi"/>
+</a>
+  </a>
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=aws,azure" />
+    <a href="https://mongodb.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb"/>
+</a>
+  </a>
+</p>
     
 </p>
 
