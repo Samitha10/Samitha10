@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Samith Abesinghe</h1>
+<div align= "center">
+  <img src="https://github.com/user-attachments/assets/9fe69e9b-a7d2-45cd-96b5-001e497fceae" alt="Image Description"/>
+</div>
+<!-- <h1 align="center">Hi 👋, I'm Samith Abesinghe</h1> -->
 <h3 align="center">A Passionate Data Scientist and Generative AI Developer</h3>
 <p align="center">
 Data Science & AI passionate, seeking to apply software development 
