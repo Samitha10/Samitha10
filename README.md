@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Samith Abesinghe</h1>
-<h3 align="center">A Passionate Data Scientist and ML Developer</h3>
-
+<h3 align="center">A Passionate Data Scientist and Generative AI Developer</h3>
 <p align="center">
-- 🔭 I’m currently working on (<a href="https://github.com/Samitha10/Financial-Planning-with-AI" target="_blank" rel="noreferrer">Financial Planning with AI</a>)
+Data Science & AI passionate, seeking to apply software development and strong analytical
+skills to solve complex problems leveraging AI and data-driven decision making.
 </p>
 
+<!-- <p align="center">
+- 🔭 I’m currently working on (<a href="https://github.com/Samitha10/Financial-Planning-with-AI" target="_blank" rel="noreferrer">Financial Planning with AI</a>)
+</p> -->
+
 <p align="center">
-- 🌱 I’m currently learning <b>Power BI, MLOps, and LLM fine-tuning</b>
+- 🌱 I’m currently learning <b>Agentic AI and LLM fine-tuning</b>
 </p>
 
 <p align="center">
@@ -15,73 +19,59 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/samith-abesinghe" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samith-abesinghe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samith-abesinghe" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samith-abesinghe" height="40" width="45" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" height="45"/></a>
+    <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
     </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
+	<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+	</a>
 </p>
-<p align="center">
-    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40"/>
-    </a>
-    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" alt="Power BI" width="60" height="40"/>
-    </a>
-</p>
+
 <p align="center">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
     </a>
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-        <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/>
+        <img src="https://numpy.org/images/logo.svg" alt="numpy" width="45" height="45"/>
     </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
     </a>
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-        <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="matplotlib" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width=40/>
     </a>
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="45" height="45"/>
     </a>
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/>
     </a>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/>
     </a>
     <a href="https://keras.io/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="45" height="45"/>
     </a>
 </p>
 <p align="center">
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-        <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="100" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
+    <a>
+    <img src="https://skillicons.dev/icons?i=fastapi,git,github"/>
+  </a>
     
 </p>
 <p align="center">
     <a href="[https://www.langchain.com/](https://www.langchain.com/)" target="_blank" rel="noreferrer">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfK2hOdYI4mZ4b8KQ-fp4NKMoyMwj0C1B2rJZx9VKf&s" alt="LangChain" width="200" height="30"/>
-    </a>
-    <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-        <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Stramlit" width="55" height="40"/>
+        <img src="https://media.licdn.com/dms/image/v2/D4E12AQHnLknj0EYfBA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1684267676484?e=2147483647&v=beta&t=ud7MZe0nlb9x0naK5FUt7wth7VQKhXnslC4Bhr-CZwE" alt="LangChain" width="" height="40"  style="border-radius:8px;"/>
     </a>
     <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="45" height="40"/>
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="45" height="45"/>
+    </a>
+        <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+        <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Stramlit" width="55" height="45"/>
     </a>
     
 </p>
