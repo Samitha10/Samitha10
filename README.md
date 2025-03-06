@@ -18,7 +18,7 @@ skills to solve complex problems leveraging AI and data-driven decision making.
 </p>
 
 <p align="center">
-- 📫 How to reach me <i><a href="mailto:samithabesinghe1999@gmail.com" target="_blank" rel="noreferrer">samithabesinghe1999@gmail.com</a></i>
+- 📫 How to reach me <i><a href="mailto:samithabesinghe.dev@gmail.com" target="_blank" rel="noreferrer">samithabesinghe.dev@gmail.com</a></i>
 </p>
 
 <h3 align="center">Connect with me:</h3>
