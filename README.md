@@ -2,11 +2,12 @@
   <img src="https://github.com/user-attachments/assets/9fe69e9b-a7d2-45cd-96b5-001e497fceae" alt="Image Description"/>
 </div>
 <!-- <h1 align="center">Hi 👋, I'm Samith Abesinghe</h1> -->
-<h3 align="center">A Passionate Data Scientist and Generative AI Developer</h3>
+<h3 align="center">Generative AI Solution Engineer | AI Enablement Specialist</h3>
 <p align="center">
-Data Science & AI passionate, seeking to apply software development 
-	and strong analytical
-skills to solve complex problems leveraging AI and data-driven decision making.
+Results-driven Generative AI Solution Architect with a strong foundation in Applied AI, cloud & DevOps, Database & API
+management. Proven track record of designing and implementing AI-driven solutions that drive business growth and
+transformation. Adept at leveraging technology to create strategic business value, with the motive of expanding the
+industrial knowledge with public to adopt new technologies
 </p>
 
 <!-- <p align="center">
@@ -14,7 +15,7 @@ skills to solve complex problems leveraging AI and data-driven decision making.
 </p> -->
 
 <p align="center">
-- 🌱 I’m currently learning <b>Agentic AI and LLM fine-tuning</b>
+- 🌱 I’m currently learning <b>Agentic AI & Goal Engineering</b>
 </p>
 
 <p align="center">
@@ -28,7 +29,7 @@ skills to solve complex problems leveraging AI and data-driven decision making.
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cs,java,html,css,python,go" />
+    <img src="https://skillicons.dev/icons?i=,html,css,python,go,rust" />
   </a>
 </p>
 
@@ -53,9 +54,7 @@ skills to solve complex problems leveraging AI and data-driven decision making.
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/>
     </a>
-    <a href="https://keras.io/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="45" height="45"/>
-    </a>
+
 </p>
 
     
@@ -72,7 +71,7 @@ skills to solve complex problems leveraging AI and data-driven decision making.
     </a>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github" />
     <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi"/>
 </a>
